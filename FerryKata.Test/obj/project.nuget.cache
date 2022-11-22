@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "LXn1sqUctql/xcxbd0efoD7URYjhRJJV4TlJ9B4Sf2OajENdPRZZxRcHjWnopA7hdcHIlI7oAJ/eXxEUKV0iKg==",
+  "dgSpecHash": "xdrCZJmZouotxY2QYtKx0gUVF+pKkZbnX+d9ThqlaIPOQi/1PcX0Y+3z8s5QqPJYv20LAZmAtAL/GUQTLbQZ+Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Teboho Motsamai\\Documents\\bootcamp\\FerryKata\\FerryKata.Test\\FerryKata.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Teboho Motsamai\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
+    "C:\\Users\\Teboho Motsamai\\.nuget\\packages\\coverlet.msbuild\\3.0.3\\coverlet.msbuild.3.0.3.nupkg.sha512",
     "C:\\Users\\Teboho Motsamai\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
     "C:\\Users\\Teboho Motsamai\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\Teboho Motsamai\\.nuget\\packages\\microsoft.net.test.sdk\\17.1.0\\microsoft.net.test.sdk.17.1.0.nupkg.sha512",
